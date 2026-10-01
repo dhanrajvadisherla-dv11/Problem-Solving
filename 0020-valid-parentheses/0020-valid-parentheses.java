@@ -5,12 +5,10 @@ class Solution {
 
         for (char c : s.toCharArray()) {
 
-            // Opening brackets
             if (c == '(' || c == '{' || c == '[') {
                 stack.push(c);
             }
 
-            // Closing brackets
             else {
                 if (stack.isEmpty()) {
                     return false;
