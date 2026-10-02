@@ -16,10 +16,10 @@ class Solution {
         res.add(cur);
        }
 
-       if(n == 0)
-       {
-        return res.get(0);
-       }
+    //    if(n == 0)
+    //    {
+    //     return res.get(0);
+    //    }
 
        return res.get(n);
     }
