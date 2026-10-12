@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/dhanrajvadisherla-dv11/Problem-Solving/tree/master/0001-two-sum) |
 | [0118-pascals-triangle](https://github.com/dhanrajvadisherla-dv11/Problem-Solving/tree/master/0118-pascals-triangle) |
 | [0229-majority-element-ii](https://github.com/dhanrajvadisherla-dv11/Problem-Solving/tree/master/0229-majority-element-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dhanrajvadisherla-dv11/Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/dhanrajvadisherla-dv11/Problem-Solving/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/dhanrajvadisherla-dv11/Problem-Solving/tree/master/0704-binary-search) |
 ## Hash Table
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/dhanrajvadisherla-dv11/Problem-Solving/tree/master/0001-two-sum) |
 | [0229-majority-element-ii](https://github.com/dhanrajvadisherla-dv11/Problem-Solving/tree/master/0229-majority-element-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dhanrajvadisherla-dv11/Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/dhanrajvadisherla-dv11/Problem-Solving/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
