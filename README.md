@@ -83,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/dhanrajvadisherla-dv11/Problem-Solving/tree/master/0912-sort-an-array) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/dhanrajvadisherla-dv11/Problem-Solving/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
