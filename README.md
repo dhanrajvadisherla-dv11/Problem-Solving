@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/dhanrajvadisherla-dv11/Problem-Solving/tree/master/0009-palindrome-number) |
 | [2235-add-two-integers](https://github.com/dhanrajvadisherla-dv11/Problem-Solving/tree/master/2235-add-two-integers) |
 | [3099-harshad-number](https://github.com/dhanrajvadisherla-dv11/Problem-Solving/tree/master/3099-harshad-number) |
 <!---LeetCode Topics End-->
