@@ -1,35 +1,36 @@
 class Solution {
     public int maxProduct(int[] nums) {
-        // int prefix = 1;
-        // int suffix = 1;
+        //O(n)
+        int prefix = 1;
+        int suffix = 1;
         int n = nums.length;
         int max = Integer.MIN_VALUE;
-        // for(int i = 0;i<n;i++)
-        // {
-        //     if(prefix == 0)
-        //     {
-        //         prefix = 1;
-        //     }
-        //     if(suffix == 0)
-        //     {
-        //         suffix = 1;
-        //     }
-        //     prefix *= nums[i];
-        //     suffix *= nums[n - i - 1];
-        //     max = Math.max(max,Math.max(prefix,suffix));
-        // }
-
-
-
         for(int i = 0;i<n;i++)
         {
-            int product = 1;
-            for(int j = i;j<n;j++)
+            if(prefix == 0)
             {
-                product *= nums[j];
-                max = Math.max(max,product);
+                prefix = 1;
             }
+            if(suffix == 0)
+            {
+                suffix = 1;
+            }
+            prefix *= nums[i];
+            suffix *= nums[n - i - 1];
+            max = Math.max(max,Math.max(prefix,suffix));
         }
+
+
+        //O(n2)
+        // for(int i = 0;i<n;i++)
+        // {
+        //     int product = 1;
+        //     for(int j = i;j<n;j++)
+        //     {
+        //         product *= nums[j];
+        //         max = Math.max(max,product);
+        //     }
+        // }
 
         return max;
     }
