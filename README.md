@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/dhanrajvadisherla-dv11/Problem-Solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dhanrajvadisherla-dv11/Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/dhanrajvadisherla-dv11/Problem-Solving/tree/master/0118-pascals-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/dhanrajvadisherla-dv11/Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/dhanrajvadisherla-dv11/Problem-Solving/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/dhanrajvadisherla-dv11/Problem-Solving/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/dhanrajvadisherla-dv11/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dhanrajvadisherla-dv11/Problem-Solving/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/dhanrajvadisherla-dv11/Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/dhanrajvadisherla-dv11/Problem-Solving/tree/master/0229-majority-element-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dhanrajvadisherla-dv11/Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/dhanrajvadisherla-dv11/Problem-Solving/tree/master/0645-set-mismatch) |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/dhanrajvadisherla-dv11/Problem-Solving/tree/master/0075-sort-colors) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/dhanrajvadisherla-dv11/Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
