@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/dhanrajvadisherla-dv11/Problem-Solving/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/dhanrajvadisherla-dv11/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dhanrajvadisherla-dv11/Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/dhanrajvadisherla-dv11/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/dhanrajvadisherla-dv11/Problem-Solving/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/dhanrajvadisherla-dv11/Problem-Solving/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/dhanrajvadisherla-dv11/Problem-Solving/tree/master/0912-sort-an-array) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/dhanrajvadisherla-dv11/Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/dhanrajvadisherla-dv11/Problem-Solving/tree/master/0229-majority-element-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dhanrajvadisherla-dv11/Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/dhanrajvadisherla-dv11/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/dhanrajvadisherla-dv11/Problem-Solving/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/dhanrajvadisherla-dv11/Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/dhanrajvadisherla-dv11/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
