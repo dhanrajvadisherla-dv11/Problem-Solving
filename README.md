@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/dhanrajvadisherla-dv11/Problem-Solving/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dhanrajvadisherla-dv11/Problem-Solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/dhanrajvadisherla-dv11/Problem-Solving/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/dhanrajvadisherla-dv11/Problem-Solving/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/dhanrajvadisherla-dv11/Problem-Solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dhanrajvadisherla-dv11/Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/dhanrajvadisherla-dv11/Problem-Solving/tree/master/0118-pascals-triangle) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/dhanrajvadisherla-dv11/Problem-Solving/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/dhanrajvadisherla-dv11/Problem-Solving/tree/master/0048-rotate-image) |
 | [2235-add-two-integers](https://github.com/dhanrajvadisherla-dv11/Problem-Solving/tree/master/2235-add-two-integers) |
 | [3099-harshad-number](https://github.com/dhanrajvadisherla-dv11/Problem-Solving/tree/master/3099-harshad-number) |
 ## Quicksort
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/dhanrajvadisherla-dv11/Problem-Solving/tree/master/0344-reverse-string) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/dhanrajvadisherla-dv11/Problem-Solving/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
